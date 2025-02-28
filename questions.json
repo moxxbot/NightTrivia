@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "What everyday object inspired the design of Portal's turrets?",
+      "options": [
+        "Security cameras",
+        "Desk lamps",
+        "Minimalist egg cups",
+        "Modern chairs"
+      ],
+      "correct_answer": "Minimalist egg cups",
+      "answer_reason": "Portal's turret design was inspired by minimalist egg cups, leading to their distinctive white, rounded appearance.",
+      "category": "Valve"
+    }
+  ]
+}

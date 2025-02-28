@@ -1,0 +1,17 @@
+{
+  "name": "discord-trivia-bot",
+  "version": "1.0.0",
+  "description": "Discord Trivia Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3",
+    "winston": "^3.17.0"
+  }
+}
